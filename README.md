@@ -19,10 +19,10 @@ First, clone the repository:
 
 ```bash
 # Clone the repository
-git clone https://github.com/HwiTran/Advanced-RAG-Chatbot.git
+git clone https://github.com/buidinhquan13/RAG_ChatBot.git
 
 # Navigate into the project directory
-cd Advanced-RAG-Chatbot
+cd RAG_ChatBot
 ```
 
 ### 2. Set Up the Environment
@@ -73,18 +73,8 @@ streamlit run app.py
 ---
 
 ## 🎥 Demo
-Here is a preview of the application in action:  
-
-
-https://github.com/user-attachments/assets/7d0e88a7-235b-47f7-a44b-38dd48ead42e
-
 
 
 ---
 
-
-## 📧 Contact
-For questions or feedback, please contact: **trandanghuy13456@gmail.com**
-
--
 
